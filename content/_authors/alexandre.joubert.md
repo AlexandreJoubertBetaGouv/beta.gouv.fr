@@ -15,4 +15,4 @@ previously:
   - espace.sur.demande
 ---
 
-Je dis que je suis PM à mes parents pour pas leur expliquer que je suis Designer de services
+Je dis à mes parents que je suis Product Manager pour ne pas leur expliquer que je suis Designer de services.
